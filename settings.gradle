@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Login_DZ1_Android1"
